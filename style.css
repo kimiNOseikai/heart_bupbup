@@ -3,5 +3,10 @@ body{
     height: 100vh;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    background-color: rgb(248, 253, 148);
+}
+
+img{
+    width: 100%;
+    height: auto;
 }
